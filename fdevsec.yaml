@@ -4,6 +4,7 @@ id:
   
 scanners:
  - sast
+ #- dast
  - secret
  - sca
  - iac
